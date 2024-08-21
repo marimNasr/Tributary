@@ -9,3 +9,4 @@ Backend infrastructure for Ford's sensor streaming system. it is designed to giv
 - Python
 - Flask
 - Docker
+- Redis
